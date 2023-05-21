@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso3_21100566_ASCURRA", "Caso3_21100566_ASCURRA\Caso3_21100566_ASCURRA.csproj", "{0F5A82A0-F758-43A9-A479-EA9B8CAC467E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PARCIAL.DOMAIN", "PARCIAL.DOMAIN\PARCIAL.DOMAIN.csproj", "{1F965260-8FAF-4888-BA0E-49ADE4329604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F5A82A0-F758-43A9-A479-EA9B8CAC467E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5A82A0-F758-43A9-A479-EA9B8CAC467E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5A82A0-F758-43A9-A479-EA9B8CAC467E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5A82A0-F758-43A9-A479-EA9B8CAC467E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F965260-8FAF-4888-BA0E-49ADE4329604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F965260-8FAF-4888-BA0E-49ADE4329604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F965260-8FAF-4888-BA0E-49ADE4329604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F965260-8FAF-4888-BA0E-49ADE4329604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01494C87-A62B-4DCE-A2E3-7BA34A0E3340}
+	EndGlobalSection
+EndGlobal
